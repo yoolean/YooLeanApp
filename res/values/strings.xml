@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotspot Marker</string>
+    <string name="scanner_name">Scan</string>
+    <string name="marker_name">Mark</string>
+    <string name="yoolean_platform_url">http://121.43.148.11:8080</string>
+    <string name="create_new_hotspot_name">Create new hot spot</string>
+    <string name="hot_spot_owner_name">Phone Number :</string>
+    <string name="hotspot_title_name">Titile :</string>
+    <string name="hotspot_desc_name">Description :</string>
+
+</resources>
